@@ -12,7 +12,8 @@ Proyecto carritoCompras: trabajado desde Udemy - El proyecto viene con una estru
     - HTML
     - CSS : framework materialize
     - JS
-
-Proyecto: .Los campos de Para, Asunto y Mensaje estan vacios, el mail no puede enviarse y los campos deberan mostrarse en rojo.
-          .Debe existir un botón para borrar todo el contenido del formulario.
-          .Al presionar el botón enviar, un spinner de carga debera mostrarse. 
+    
+- **Proyecto**:
+    - Los campos de Para, Asunto y Mensaje estan vacios, el mail no puede enviarse y los campos deberan mostrarse en rojo.
+    - Debe existir un botón para borrar todo el contenido del formulario.
+    - Al presionar el botón enviar, un spinner de carga debera mostrarse. 
