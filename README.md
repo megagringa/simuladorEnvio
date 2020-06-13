@@ -1,4 +1,4 @@
-# #simuladorEnvio // construccion
+# #simuladorEnvio
 
 ### [Simulador de Emails](https://megagringa.github.io/simuladorEnvio/index.html)
 
