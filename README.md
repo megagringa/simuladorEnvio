@@ -8,10 +8,11 @@ Proyecto carritoCompras: trabajado desde Udemy - El proyecto viene con una estru
 
 ## Lenguajes y tecnologías.
 
-- **HTML5**:
-    - HTML
-    - CSS : framework materialize
-    - JS
+- HTML5
+- CSS3 
+- JS(Javascript)
+- Framework Materialize
+
     
 - **Proyecto**:
     - Los campos de Para, Asunto y Mensaje estan vacios, el mail no puede enviarse y los campos deberan mostrarse en rojo.
