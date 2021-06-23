@@ -9,12 +9,11 @@ Proyecto carritoCompras: trabajado desde Udemy - El proyecto viene con una estru
 ## Lenguajes y tecnologías.
 
 - HTML5
-- CSS3 
+- CSS3: Materialize, Tailwind
 - JS(Javascript)
-- Framework Materialize
 
+- **Udemy**:
+    - Proyecto de práctica para mejorar skills.
     
 - **Proyecto**:
-    - Los campos de Para, Asunto y Mensaje estan vacios, el mail no puede enviarse y los campos deberan mostrarse en rojo.
-    - Debe existir un botón para borrar todo el contenido del formulario.
-    - Al presionar el botón enviar, un spinner de carga debera mostrarse. 
+    - Simulador de envio de email. 
