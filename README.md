@@ -2,8 +2,8 @@
 
 ### [Simulador de Emails](https://megagringa.github.io/simuladorEnvio/index.html)
 
-Proyecto carritoCompras: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
-         Solo se implementa js. 
+Proyecto de un sumulador de envios, trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
+         Solo se implementa js para desarrollar y aprender.
 
 
 ## Lenguajes y tecnologías.
@@ -11,9 +11,3 @@ Proyecto carritoCompras: trabajado desde Udemy - El proyecto viene con una estru
 - HTML5
 - CSS3: Materialize, Tailwind
 - JS(Javascript)
-
-- **Udemy**:
-    - Proyecto de práctica para mejorar skills.
-    
-- **Proyecto**:
-    - Simulador de envio de email. 
