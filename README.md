@@ -2,7 +2,7 @@
 
 ### [Simulador de Emails](https://megagringa.github.io/simuladorEnvio/index.html)
 
-Proyecto de un sumulador de envios, trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
+Proyecto de un simulador de envios de Emails, trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
          Solo se implementa js para desarrollar y aprender.
 
 
